@@ -1,0 +1,180 @@
+
+.header{
+    height: 65px;
+    display: flex;
+    width: 100%;
+    background-color: rgb(49, 52, 62);
+}
+.btn{
+    margin-left: -25px;
+    cursor: pointer;
+    color: white;
+    font-weight: bolder;
+    font-size: 29px;
+    border-radius: 5px;
+    text-align: center;
+    font-family:  Impact;
+    border-color:transparent;
+    height: 40px;
+    width: 135px;
+    background-color: rgb(83, 193, 230);
+}
+ul{
+    word-spacing: 12px;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 17px;
+  margin-top: 12px;
+}
+ul li{
+    list-style: none;
+}
+ul li a .butom{
+    border-radius: 5px;
+    cursor: pointer;
+    height: 40px;
+    border-color: transparent;
+    background-color: rgb(49, 52, 62) ;
+    font-size: medium;
+    font-weight:lighter;
+    color:rgb(200, 198, 198);
+    font-family:'Gill Sans', sans-serif;
+    text-decoration: none;
+}
+ul li a .butom:hover{
+    background-color: rgb(27, 31, 43);
+    transition: ease-in 0.2s;
+}
+ .search{
+    margin-left: 480px;
+    width:230px;
+    margin-top: -60px;
+    height:36px ;
+    border-radius: 9px 0px 0px 9px;
+    border-color: transparent;
+}
+.botom{
+    margin-top: 8.5px;
+    height: 41.4px;
+    cursor: pointer;
+    border-color: transparent;
+    width: 30px;
+    background-color: white;
+    border-radius: 0px 9px 9px 0px;
+
+}
+.main{
+    height: 1335px;
+    background-color: rgb(51, 54, 65) ;;
+}
+.btpn{
+    color: white;
+    font-weight: bolder;
+    font-size: 60px;
+    border-radius: 10px;
+    text-align: center;
+    font-family:  Impact;
+    border-color:transparent;
+    height: 80px;
+    margin-top: 45px;
+    margin-left: 630px;
+    margin-bottom: 40px;
+    width: 263px;
+    background-color: rgb(83, 193, 230);   
+}
+.src .search{
+     width: 520px;
+     border-radius: 20px 0px 0px 20px;
+    height: 60.5px;
+    cursor: pointer;
+    margin-left: 430px;
+    font-size: large;
+    font-weight: lighter;
+}
+.serc{
+    margin-top: -5px;
+    padding: 21px;
+    border-color: transparent;
+    font-size: large;
+    cursor: pointer;
+    background-color: rgb(83, 193, 230);   
+    border-radius: 0px 20px 20px 0px;
+}
+ h2{
+    text-align: center;
+    font-family: Arial ;
+    margin-top: 30px;
+    font-weight: lighter;
+    color: white;
+    font-size: 20px;
+}
+.go{
+    border-color: transparent;
+    border-radius: 9px;
+    height: 55px;
+    margin-left: 660px;
+    font-size: 20px;
+    font-weight: lighter;
+    width: 180px;
+    cursor: pointer;
+    background-color:rgb(83, 193, 230) ;
+}
+.pa{
+    margin-left: 90px;
+width: 1200px;
+}
+h4{
+    font-family: arial;
+    font-size: 20px;
+    color:rgb(83, 193, 230);   
+}
+
+p{
+    font-size:18px;
+    color: rgb(175, 172, 172);
+}
+.footer{
+    margin-top: -16px;
+    background-color:rgb(49, 52, 62); ;
+    height: 200px;
+}
+
+.line{
+    height: 60px;
+    margin-left: 25px;
+    display: flex;
+}
+.batn{
+    margin-top: 12px;
+    cursor: pointer;
+    margin-left: 25px;
+    color: white;
+    font-weight: bolder;
+    font-size: 29px;
+    border-radius: 5px;
+    text-align: center;
+    font-family:  Impact;
+    border-color:transparent;
+    height: 40px;
+    width: 135px;
+    background-color: rgb(83, 193, 230);
+}
+a{
+    list-style: none;
+    margin-top: 200px;
+    color: rgb(83, 193, 230);;
+    text-decoration: none;
+    font-family: arial;
+}
+.line p{
+    font-size: 18px;
+}
+.line ul{
+    color: white;
+    font-style: arial;
+    gap: 100px;
+}
+
+.line li{
+    color: rgb(83, 193, 230);
+}
